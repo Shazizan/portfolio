@@ -1,5 +1,5 @@
 # Data Wizard Portfolio✨
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![](header.png)
 
  **Be warmly welcomed**  
 > to the *enchanted halls* where my **coding spells** weave *data into magic* 🪄.
