@@ -2,7 +2,7 @@
 
 Welcome to my **Data Engineering Portfolio** repository!  
 This repo showcases my coding projects using **Python**, **Pandas** and **PySpark** for building **ETL (Extract, Transform, Load)** pipelines and data workflows.  
-As I’m still learning, this repository also serves as a space for **experimentation, practice, and documenting my progress** in data engineering.
+As I’m still learning, this repository also serves as a space for **experimentation, practice and documenting my progress** in data engineering.
 
 ---
 
