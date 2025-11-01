@@ -43,7 +43,7 @@ As I continue learning, I’ll keep adding more examples and experiments related
 | *(more coming soon)* | Future projects will explore APIs, SQL integration, automation, and data validation | — |
 
 
-🗃️ As I experiment and learn, all processed outputs from the ETL pipelines will be saved in pipeline-vault, making it easy to track progress and explore the results.
+🗃️ As I experiment and learn, all processed outputs from the ETL pipelines will be saved in [`pipeline-vault`](https://github.com/Shazizan/pipeline-vault), making it easy to track progress and explore the results.
 
 
 ---
