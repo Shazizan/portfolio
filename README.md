@@ -40,6 +40,8 @@ As I continue learning, I’ll keep adding more examples and experiments related
 | `etl_vault_ps_csv_order_item.ipynb` | ETL on order item CSV data using PySpark | PySpark |
 | `etl_vault_ps_realtime_crypto_by_coingecko.ipynb` | ETL pipeline fetching real-time cryptocurrency data from Coingecko API | Python, PySpark |
 | `etl_vault_ps_realtime_openweathermap.ipynb` | ETL pipeline fetching real-time weather data from OpenWeatherMap API | Python, PySpark |
+| `etl_vault_lambda_stock_price_data.ipynb` | ETL pipeline utilising Python with Lambda Fx (method 2) | Python, Lambda Fx |
+| `etl_vault_lambda_distribution_centers_data.ipynb` | ETL pipeline utilising Python with Lambda Fx (method 3) | Python, Lambda Fx |
 | *(more coming soon)* | Future projects will explore APIs, SQL integration, automation, and data validation | — |
 
 
